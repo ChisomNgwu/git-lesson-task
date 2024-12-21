@@ -19,3 +19,5 @@ Command: git rebase brach name here .
 
 git cherry-pick` is a Git command that lets you take a specific commit from one branch and apply it to another branch. its mostly effective when fixing bus or features that needs to be applied to multiple branches.
 Command:git cherry-pick <commit-hash>
+
+{happy learning}
